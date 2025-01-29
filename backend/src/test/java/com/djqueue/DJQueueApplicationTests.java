@@ -1,10 +1,10 @@
-package com.musicrequest.musicrequestapp;
+package com.djqueue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MusicrequestappApplicationTests {
+class DJQueueApplicationTests {
 
 	@Test
 	void contextLoads() {

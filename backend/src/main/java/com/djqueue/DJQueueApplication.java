@@ -1,13 +1,13 @@
-package com.musicrequest.musicrequestapp;
+package com.djqueue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MusicrequestappApplication {
+public class DJQueueApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MusicrequestappApplication.class, args);
+		SpringApplication.run(DJQueueApplication.class, args);
 	}
 
 }
